@@ -1,3 +1,3 @@
-iuyr# flexget
+# flexget
 
 example config for flexget
